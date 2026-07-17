@@ -1,0 +1,10 @@
+com\solariq\solariq_api\repository\SolarCalculationRepository.class
+com\solariq\solariq_api\dto\SolarRequestDTO.class
+com\solariq\solariq_api\dto\SolarResponseDTO.class
+com\solariq\solariq_api\entity\SolarCalculation.class
+com\solariq\solariq_api\SolariqApplication.class
+com\solariq\solariq_api\dto\SolarResponseDTO$Builder.class
+com\solariq\solariq_api\entity\User.class
+com\solariq\solariq_api\service\SolarCalculationService.class
+com\solariq\solariq_api\controller\SolarController.class
+com\solariq\solariq_api\repository\UserRepository.class
